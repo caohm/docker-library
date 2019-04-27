@@ -1,6 +1,6 @@
 #! /bin/bash
 
-version="7.0.0"
+version="5.1.2"
 elasticsearch="elasticsearch"
 kibana="kibana"
 logstash="logstash"
