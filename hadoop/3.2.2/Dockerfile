@@ -1,1 +1,1 @@
-from apache/hadoop:3.2.2
+from apache/hadoop:3.4.1
